@@ -72,3 +72,7 @@ class MainActivity : AppCompatActivity() {
 //git commit -m "UI Components"
 //PASTE the long command
 //git push -u origin master
+
+//Push the interest calculator to github
+//send the link to walter@emobilis.ac.ke
+
